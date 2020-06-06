@@ -12,5 +12,5 @@ Well, just write if you have nothing to do. After all, people write novels first
 By the way, on github, I am still a novice, and I would like to ask friends to advise!<br>
 感谢大家听我在这里讲废话。<br>
 Thanks everyone for listening to my nonsense here.<br>
-<a herf="https://m.qidian.com/book/1021261557">点击此处<a>看我的小说。<br>
-<a herf="https://m.qidian.com/book/1021261557">Click here<a>to read my novel.
+我的小说放在起点中文网，网址：https://m.qidian.com/book/1021261557
+My novel is on the qidian Chinese website, https://m.qidian.com/book/1021261557
