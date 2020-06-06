@@ -1,4 +1,4 @@
-（# 今天我创建了一个github帐号！<br>
+# 今天我创建了一个github帐号！<br>
 # Today I created a new github account!<br>
 所以，我想用双语庆祝一下。<br>
 So I want to celebrate in bilingual.<br>
