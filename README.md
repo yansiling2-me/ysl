@@ -12,7 +12,7 @@ Well, just write if you have nothing to do. After all, people write novels first
 By the way, on github, I am still a novice, and I would like to ask friends to advise!<br>
 感谢大家听我在这里讲废话。<br>
 Thanks everyone for listening to my nonsense here.<br>
-我的小说放在起点中文网，网址：https://m.qidian.com/book/1021261557<br>
+我的小说放在起点中文网，[点击这里](https://m.qidian.com/book/1021261557)<br>
 My novel is on the qidian Chinese website, https://m.qidian.com/book/1021261557<br>
 http://github.com/yansiling2-me/hlsj/<br>
 这是我的小说的博客目录和开篇。<br>
