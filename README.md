@@ -18,3 +18,5 @@ http://github.com/yansiling2-me/hlsj/<br>
 这是我的小说的博客目录和开篇。<br>
 This is the blog directory and opening of my novel.
 <h4>Unfortunately, I haven't written English yet.</h4>
+注：昨天写了英文的。<br>
+Note: I wrote English yesterday.
