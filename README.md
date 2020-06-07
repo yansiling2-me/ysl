@@ -19,5 +19,5 @@ http://github.com/yansiling2-me/hlsj/<br>
 This is the blog directory and opening of my novel.
 <h4><u>Unfortunately, I haven't written English yet.</u></h4>
 <hr>
-注：昨天写了英文的。<br>
+<h5>注：昨天写了英文的。</h5><br>
 Note: I wrote English yesterday.
