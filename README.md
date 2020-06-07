@@ -20,4 +20,5 @@ This is the blog directory and opening of my novel.
 <h4><u>Unfortunately, I haven't written English yet.</u></h4>
 <hr>
 <h5>注：昨天写了英文的。</h5><br>
+http://github.com/yansiling/hlsj_en-us/
 <h5>Note: I wrote English yesterday.</h5>
