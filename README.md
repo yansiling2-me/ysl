@@ -16,7 +16,7 @@ Thanks everyone for listening to my nonsense here.<br>
 My novel is on the qidian Chinese website,[click me](https://m.qidian.com/book/1021261557)<br>
 http://github.com/yansiling2-me/hlsj/<br>
 这是我的小说的博客目录和开篇。<br>
-This is the blog directory and opening of my novel.
+This is the blog directory and opening of my novel
 <h4>~~Unfortunately, I haven't written English yet.~~</h4>
 <hr>
 <h5>注：昨天写了英文的。</h5><br>
